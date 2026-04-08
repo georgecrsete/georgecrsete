@@ -14,8 +14,6 @@
 
 <p align="center">
 <span style="font-size:16px">💻 Estudante de programação</span>
-</p><p align="center">
-<sub>💻 Estudante de programação</sub>
 </p>
 
 ---
