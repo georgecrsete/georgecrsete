@@ -12,7 +12,7 @@
 
 <h1 align="center">George
 
-<p align="center">
+<p1 align="center">
 💻 Estudante de programação  
 
 ---
