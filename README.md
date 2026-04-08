@@ -10,14 +10,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
 
-<h1 align="center">⚽ George | Developer ⚽</h1>
+<h1 align="center">⚽ George </h1>
 
 <p align="center">
 💻 Estudante de programação  
 
 ---
-
-## 🐍 Contribuições (CR7 Snake)
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
