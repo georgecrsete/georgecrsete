@@ -14,27 +14,6 @@
 
 <p align="center">
 💻 Estudante de programação  
-🚀 Foco em Python, Java, HTML e CSS  
-🐐 Disciplina estilo CR7
-</p>
-
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgecrsete&show_icons=true&theme=vision-friendly-dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgecrsete&layout=compact&theme=vision-friendly-dark"/>
-</p>
 
 ---
 
@@ -46,16 +25,4 @@
 
 ---
 
-## ⚽ Mentalidade
 
-<p align="center">
-"Talent without work is nothing." – Cristiano Ronaldo
-</p>
-
----
-
-## 🐐 Perfil
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgecrsete&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true">
-</p>
