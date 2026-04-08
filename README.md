@@ -1,13 +1,26 @@
 ## Meu Github
 
-<p align="center">
-<img src="https://i.imgur.com/3ZQ3Z9H.jpg" width="800">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
 
-## 📊 Estatísticas
+<h1 align="center">George
+
+<p1 align="center">
+💻 Estudante de programação  
+
+---
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=georgecrsete&show_icons=true&theme=dark"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgecrsete&layout=compact&theme=dark"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+---
+
+
