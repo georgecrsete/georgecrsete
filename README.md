@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
 
-<h1 align="center">George </h1>
+<h1 align="center">George
 
 <p align="center">
 💻 Estudante de programação  
