@@ -10,6 +10,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgecrsete&theme=chartreuse-dark">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgecrsete&theme=react-dark&color=FFD700&line=FFD700&point=FFFFFF">
