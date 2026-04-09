@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-<a href="george.p@escolar.ifrn.edu.br">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:george.p@escolar.ifrn.edu.br">
+<img src="https://img.shields.io/badge/george.p@escolar.ifrn.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
