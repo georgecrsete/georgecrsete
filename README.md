@@ -9,6 +9,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
+<p align="center">
+<a href="mailto:seuemail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 <h1 align="center">George</h1>
 
