@@ -9,11 +9,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
 </p>
+
 <p align="center">
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:george.p@escolar.ifrn.edu.br">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
+
 </p>
 
 <h1 align="center">George</h1>
